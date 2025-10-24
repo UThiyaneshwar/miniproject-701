@@ -1,6 +1,0 @@
-# File: requirements.txt
-
-pandas
-scikit-learn
-xgboost
-joblib
